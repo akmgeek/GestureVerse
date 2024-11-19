@@ -114,10 +114,4 @@ This project is licensed under the MIT License.
 - [OpenCV](https://opencv.org/) for computer vision functionalities.
 - [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) for simulating mouse and keyboard inputs.
 
----
 
-Feel free to customize the repository URL and add any additional sections or details specific to your project.
-
----
-
-Feel free to modify the repository URL and add any additional details or sections you deem necessary.
